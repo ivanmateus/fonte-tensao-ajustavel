@@ -16,7 +16,7 @@ Projeto de fonte de tensão ajustável entre 3V e 12V
 | **Total**  |                    |  R$ 45,32 |
 
 # Link do circuito no Falstad
-https://tinyurl.com/yzfl7ulc
+https://tinyurl.com/yjvats8v
 
 # *Schematic* do circuito no EAGLE
 
