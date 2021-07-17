@@ -18,6 +18,10 @@ Projeto de fonte de tensão ajustável entre 3V e 12V
 # Link do circuito no Falstad
 https://tinyurl.com/yjvats8v
 
+# Link do vídeo explicativo do circuito
+
+https://drive.google.com/file/d/1kzsFTO33INxW0oolytp6OuxG5l7hxoE_/view?usp=sharing
+
 # *Schematic* do circuito no EAGLE
 
 ![alt text](https://github.com/ivanmateus/fonte-tensao-ajustavel/blob/main/fonte-tensao-schematic.png 'Projeto esquemático no EAGLE')
