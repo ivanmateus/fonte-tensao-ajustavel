@@ -29,3 +29,8 @@ https://drive.google.com/file/d/1kzsFTO33INxW0oolytp6OuxG5l7hxoE_/view?usp=shari
 # PCB do circuito no EAGLE
 
 ![alt text](https://github.com/ivanmateus/fonte-tensao-ajustavel/blob/main/fonte-tensao-pcb.png 'Projeto esquemático no EAGLE')
+
+# Membros da equipe
+
+- Gabriel de Andrade Dezan - gabrieldezan@usp.br
+- Ivan Mateus de Lima Azevedo - ivanmateusla@usp.br
