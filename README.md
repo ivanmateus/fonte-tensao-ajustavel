@@ -5,7 +5,7 @@ Projeto de fonte de tensão ajustável entre 3V e 12V
 # Lista de componentes
 | Quantidade | Componentes        | Valor R$ |
 |------------|--------------------|----------|
-| 1          | Transformador 24V / 1A | [RS40,93](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html?gclid=CjwKCAjwlrqHBhByEiwAnLmYUKp_27Euzx1MRPJrL1WUFsH_QbNIpcHSARynfr1GRRJqYMff7XczURoCjzQQAvD_BwE)
+| 1          | Transformador 17V  | [R$18,91](https://produto.mercadolivre.com.br/MLB-1590579363-transformador-entrada-110220v-saida-17v-08a-uso-geral-_JM?matt_tool=68186480&matt_word=&matt_source=google&matt_campaign_id=12271057348&matt_ad_group_id=117812253976&matt_match_type=&matt_network=g&matt_device=c&matt_creative=496856058221&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=263976801&matt_product_id=MLB1590579363&matt_product_partition_id=310938601101&matt_target_id=aud-1267094690808:pla-310938601101)
 | 1          | Ponte retificadora MB6S       | [R$ 1,35](https://produto.mercadolivre.com.br/MLB-1614894177-10x-ponte-retificadora-mb6s-ponte-de-diodo-mb6s-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic) |
 | 1          | Capacitor 1000uF    | [R$ 0,84](https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html) |
 | 1          | Resistor 5.6kΩ    | [R$ 0,06](https://www.baudaeletronica.com.br/resistor-5k6-5-1-4w.html) |
