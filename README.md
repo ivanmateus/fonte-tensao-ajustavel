@@ -20,7 +20,7 @@ https://tinyurl.com/yg756zc2
 
 # Link do vídeo explicativo do circuito
 
-https://drive.google.com/file/d/1kzsFTO33INxW0oolytp6OuxG5l7hxoE_/view?usp=sharing
+https://drive.google.com/file/d/1DuMOudlEPW5la3gd4gy-iHLTECQAN9us/view?usp=drivesdk
 
 # *Schematic* do circuito no EAGLE
 
